@@ -17,5 +17,3 @@ In this secction I got answers to questions like;
 
 ## Conclusion
 From the investigation, we could draw some conclusions like, people above 40 tend to show up more than the younger patients. This could be due to the fact that the higher percent of ill/disabled are among them, which we can conclude from our analysis that disabled/ill patients turn up more and as we know, hypothetically people tend to be more non chalant with health when they feel okay. Patients who turned up have lower percent of scholarship granted to them. Also, patients who received SMS alert have a lower turn up than those who did not receive, but in the real sense it should be the other way round. Some locations show more turn up of patients than others. Based on the analysis, the farther away the appointment is fixed from the day it is scheduled, the lesser the chances of them turning up. This could be as a result of them forgetting or them feeling better and thereby thinking there is no need turning up.
-
-This project was done as part of Udacity's Data Analyst Nanodegree certification.
