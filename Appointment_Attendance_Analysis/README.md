@@ -1,7 +1,7 @@
 # Appointment_Attendance_Analysis
 
 ## Introduction
-In this project we will be carrying analysis related to the turn up event of patients to their appointment across different neighborhood in Brazil. We will be answering related question that would be raised after taking an overview of the dataset in order to give us insights as to why patients may or may not show up for their appoinment. 
+In this project we will be carrying analysis related to the turn up event of patients to their appointment across different neighborhood in Brazil. We will be answering related question that would be raised after taking an overview of the dataset in order to give us insights as to why patients may or may not show up for their appointment. 
 
 ## Exploratory Data Analysis
 In this section I got answers to questions like;
